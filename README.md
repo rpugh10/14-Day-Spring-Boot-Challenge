@@ -8,7 +8,7 @@ Tracking my progress as I learn Spring Boot deeply through a structured hands-on
 
 | Day | Topic | Task | Done? | Notes |
 |-----|-------|------|-------|-------|
-| 1 | Project Setup | Manual Spring Boot project + H2 | ✅/⬜ |  |
+| 1 | Project Setup | Manual Spring Boot project + mySQL | ✅/⬜ |  |
 | 2 | REST Controller | GET /hello endpoint | ✅/⬜ |  |
 | 3 | @RequestParam | GET /square?num=5 | ✅/⬜ |  |
 | 4 | @PathVariable | GET /greet/{name} | ✅/⬜ |  |
