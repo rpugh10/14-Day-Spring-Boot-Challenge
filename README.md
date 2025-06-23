@@ -13,7 +13,7 @@ Tracking my progress as I learn Spring Boot deeply through a structured hands-on
 | 3 | @RequestParam | GET /square?num=5 | ✅/⬜ |Used @GetMapping to create an endpoint and @RequestParam for the Query|
 | 4 | @PathVariable | GET /greet/{name} | ✅/⬜ |Used @PathVariable to get data right from the URL|
 | 5 | @Service + DI | Service class logic | ✅/⬜ |Learned how to put the logic in the service class and inject it into the controller class  |
-| 6 | Component Types | Compare @Service vs @Component | ✅/⬜ |  |
+| 6 | Component Types | Compare @Service vs @Component | ✅/⬜ |Found out that Spring treats these classes the same(from what I know)  |
 | 7 | Entity | Create Book entity | ✅/⬜ |  |
 | 8 | JPA Repository | Save/fetch from DB | ✅/⬜ |  |
 | 9 | POST Book | Use @RequestBody to add book | ✅/⬜ |  |
