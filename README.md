@@ -15,7 +15,7 @@ Tracking my progress as I learn Spring Boot deeply through a structured hands-on
 | 5 | @Service + DI | Service class logic | ✅/⬜ |Learned how to put the logic in the service class and inject it into the controller class  |
 | 6 | Component Types | Compare @Service vs @Component | ✅/⬜ |Found out that Spring treats these classes the same(from what I know)  |
 | 7 | Entity | Create Book entity | ✅/⬜ |Created a book entity using annations such as @Entity, @Id, @GeneratedValue and use lombok @Data to create getters/setters|
-| 8 | JPA Repository | Save/fetch from DB | ✅/⬜ |  |
+| 8 | JPA Repository | Save/fetch from DB | ✅/⬜ | Created a book repository interface that extends JpaRepository allowing me access to the basic CRUD methods |
 | 9 | POST Book | Use @RequestBody to add book | ✅/⬜ |  |
 | 10 | GET Book by ID | Use path variable | ✅/⬜ |  |
 | 11 | DELETE + Error Handling | Handle not found | ✅/⬜ |  |
