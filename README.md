@@ -17,7 +17,7 @@ Tracking my progress as I learn Spring Boot deeply through a structured hands-on
 | 7 | Entity | Create Book entity | ✅/⬜ |Created a book entity using annations such as @Entity, @Id, @GeneratedValue and use lombok @Data to create getters/setters|
 | 8 | JPA Repository | Save/fetch from DB | ✅/⬜ | Created a book repository interface that extends JpaRepository, allowing me access to the basic CRUD methods |
 | 9 | POST Book | Use @RequestBody to add book | ✅/⬜ | Used @PostMapping to send data to the database and @RequestBody to automatically deserialize the data |
-| 10 | GET Book by ID | Use path variable | ✅/⬜ |  |
+| 10 | GET Book by ID | Use path variable | ✅/⬜ |Learning about using ResponseEntity to return a 404 not found error and learning how to use @DeleteMapping and @PathVariable to delete a book using Postman |
 | 11 | DELETE + Error Handling | Handle not found | ✅/⬜ |  |
 | 12 | Relationships | Book has Reviews | ✅/⬜ |  |
 | 13 | Nested GET | Fetch reviews by book | ✅/⬜ |  |
