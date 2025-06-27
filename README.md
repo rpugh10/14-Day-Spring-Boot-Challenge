@@ -20,7 +20,7 @@ Tracking my progress as I learn Spring Boot deeply through a structured hands-on
 | 10 | GET Book by ID | Use path variable | ✅/⬜ |Learning about using ResponseEntity to return a 404 not found error and learning how to use @DeleteMapping and @PathVariable to delete a book using Postman |
 | 11 | DELETE + Error Handling | Handle not found | ✅/⬜ | Used @PutMapping to update a Book. Learning more about ResponseEntity and how it lets you control the HTTP status. Also, using a ? makes the method generic, allowing you to return anything |
 | 12 | Relationships | Book has Reviews | ✅/⬜ | Added a method to find a book by title to the Book Repository and used a @RequestParam to handle searching for the title  |
-| 13 | Nested GET | Fetch reviews by book | ✅/⬜ |Expaned the the find a book method to include finding an author as well, used two @RequestParam in the controller  |
+| 13 | Nested GET | Fetch reviews by book | ✅/⬜ | Expanded the find a book method to include finding an author, using two @RequestParam in the controller. Part 2, added 2 more methods to the repository letting the user search for just a title or just an author or search for both  |
 | 14 | Wrap Up | Refactor or use MySQL | ✅/⬜ |  |
 
 ---
